@@ -1,0 +1,21 @@
+[doping="yesDoping"]{
+  fill: #ACD8AA
+}
+
+[doping="noDoping"]{
+  fill: #E78F8E
+}
+h1{
+  color: F48498;
+    font-family: arial;
+  text-align: center;
+}
+[id="tooltip"]{
+  background-color: #f2ccc3;
+  font-family: arial;
+  padding: 10px;
+  opacity: 0.9;
+}
+.container{
+  background-color: #FFE6E8;
+}
